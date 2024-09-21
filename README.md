@@ -1,0 +1,1 @@
+# -Market-Movement-Model-Using-Nifty50-BankNifty-NDX-and-SPX
