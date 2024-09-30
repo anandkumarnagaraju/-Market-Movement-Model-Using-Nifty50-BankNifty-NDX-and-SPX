@@ -4,9 +4,13 @@ This repository contains a comprehensive model designed to analyze and predict m
 
 Key Features:
 1)Data Collection: Automated data gathering from multiple indices.
+
 2)Pattern Detection: Advanced algorithms to recognize market trends and movement signals.
+
 3)High-Frequency Analysis: Process data points at 5-minute intervals for accurate, timely insights.
+
 4)Visualization: Intuitive graphs and charts that highlight actionable patterns.
+
 How Traders Benefit:
 1)Stay Ahead of the Market: Use this model to identify trends before major shifts happen.
 2)Optimize Trade Timing: Leverage 5-minute insights to make more timely and informed decisions.
